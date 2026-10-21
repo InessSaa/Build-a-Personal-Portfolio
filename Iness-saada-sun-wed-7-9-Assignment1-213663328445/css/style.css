@@ -1,0 +1,29 @@
+.icon img{
+    width: 25px;
+}
+
+h1,h2,h3,h4{
+    color: #3a8dc5;
+}
+.skills{
+    background-color: #def0fc;
+    color: black;
+}
+
+.image{
+    width: 80px;
+    
+}
+.thead{
+    color: aliceblue;
+    background-color: #1c6ea4;
+}
+
+.btnBlue{
+    background-color: #1c6ea4;
+    color: white;
+}
+.btnRed{
+    background-color: red;
+    color: white;
+}
